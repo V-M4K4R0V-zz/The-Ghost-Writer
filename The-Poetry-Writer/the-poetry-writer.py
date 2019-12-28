@@ -8,10 +8,10 @@ if L_gender == 'M':
     L_feel = input("do u [L]ove or [H]ate him [H]or[L] : ")
     if L_feel == 'L':
 
-    elif == 'H':
+    elif L_feel == 'H':
 elif == 'F':
     L_feel2 = input("do u [L]ove or [H]ate her [H]or[L] : ")
     if L_feel2 == 'L':
 
-    elif == 'H':
+    elif L_feel2 == 'H':
     
